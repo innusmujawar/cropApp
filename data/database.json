@@ -1,0 +1,79 @@
+{
+    "crops": [
+        {
+            "name": "Udid",
+            "area": 1.0,
+            "start_date": "2025-04-18",
+            "end_date": "",
+            "income": 0.0
+        },
+        {
+            "name": "Sugarcane",
+            "area": 1.0,
+            "start_date": "2025-04-18",
+            "end_date": "2025-06-30",
+            "income": 0.0
+        }
+    ],
+    "expenses": [
+        {
+            "crop": "Maiz",
+            "head": "Labor",
+            "amount": 1000.0,
+            "date": "2025-04-18"
+        },
+        {
+            "crop": "Maiz",
+            "head": "Pesticides",
+            "amount": 2000.0,
+            "date": "2025-04-18"
+        },
+        {
+            "crop": "Maiz",
+            "head": "Fertilizer",
+            "amount": 5000.0,
+            "date": "2025-04-18"
+        },
+        {
+            "crop": "Udid",
+            "head": "Labor",
+            "amount": 9000.0,
+            "date": "2025-04-18"
+        },
+        {
+            "crop": "Udid",
+            "head": "Pesticides",
+            "amount": 3000.0,
+            "date": "2025-04-18"
+        },
+        {
+            "crop": "Udid",
+            "head": "Fertilizer",
+            "amount": 7000.0,
+            "date": "2025-04-18"
+        },
+        {
+            "crop": "Sugarcane",
+            "head": "Labor",
+            "amount": 1000.0,
+            "date": "2025-04-18"
+        },
+        {
+            "crop": "Sugarcane",
+            "head": "Pesticides",
+            "amount": 10000.0,
+            "date": "2025-04-18"
+        },
+        {
+            "crop": "Sugarcane",
+            "head": "Fertilizer",
+            "amount": 3000.0,
+            "date": "2025-04-18"
+        }
+    ],
+    "expense_heads": [
+        "Labor",
+        "Pesticides",
+        "Fertilizer"
+    ]
+}
